@@ -1,5 +1,3 @@
-# 🏗 Scaffold-ETH
-
 # 🏄‍♂️ Quick Start
 
 ### Manual setup
